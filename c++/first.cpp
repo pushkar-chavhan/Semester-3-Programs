@@ -6,7 +6,6 @@ int main()
     int result=fact(4);
     cout<<"factorial="<<result<<endl;
     return 0;
-
 }
 int fact(int n)
 {
